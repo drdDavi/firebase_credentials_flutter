@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326018676995",
+    "firebase_url": "https://flutter-firebase-credentials.firebaseio.com",
+    "project_id": "flutter-firebase-credentials",
+    "storage_bucket": "flutter-firebase-credentials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326018676995:android:0a92606b230330500c5136",
+        "android_client_info": {
+          "package_name": "com.codememory.firebasecredentialsflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326018676995-d9g30bsev5bden1l87pm35idbbmlr9uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7QVspghxL1nht7_6B5jx_Db8R3I76v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326018676995-d9g30bsev5bden1l87pm35idbbmlr9uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326018676995-l6ra212cd4t70pckprgdg3hra5b9n236.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codememory.firebasecredentialsflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
